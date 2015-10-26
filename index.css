@@ -1,0 +1,19 @@
+body{background:url('http://www.pkmneothunder.com/main_theme.jpg');}
+#slash{background:yellow}
+ .carousel-inner > .item > img,
+
+  .carousel-inner > .item > a > img {
+   width:50%;
+      margin: auto;
+	  border:solid black 1px;
+	border-background: url('http://www.pkmneothunder.com/light.png');
+  }
+ 
+.button_case{width:220px;height:100px;border-collapse:separate;margin-left:10px;font-family:Arial,Geneva;color:white;size:100px;background:#f0ad4e 1px;border:#eea236;border-radius:2px;}
+.container{border-radius:10px;width:1000px;background:url('http://www.pkmneothunder.com/images/cobalt.jpg')}
+#position{margin-left:210px}
+#Swarm_alert{height:300px;width:170px;border:solid black 1px;margin-top:-18px;background:url('http://www.pkmneothunder.com/images/twitter1.png');}
+#Content{height:300px;width:800px;margin-top:-320px;margin-left:170px;height:800px; background:url('http://www.pkmneothunder.com/images/gradient.jpg');}
+#Logo{background:#a5e2f5};
+#btn-placement{}
+.tweek{background:url('http://www.pkmneothunder.com/images/twitter1.png');border-collapse:separate;margin-left:10px;font-family:Arial,Geneva;color:white;size:100px;width:40px;height:auto;border:0px;}
